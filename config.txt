@@ -1,0 +1,15 @@
+## Configuration file for MSSM Scans
+## Directory to micrOmegas library
+1. ../lib/micromegas_5.2.6/MSSM
+## Directory to SoftSUSY library
+2. ../lib/softsusy-4.1.10
+## Parameter space to scan (either "cMSSM" or "pMSSM")
+3. cMSSM
+## Directory where unran model csv files are stored
+4. ../data_in
+## Directory where output data should be stored
+5. ../data_out
+## Directory for writing temporary files
+6. ../scratch
+## Number of threads to use
+7. 8
